@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 
-const Hoodies = () => {
+const Stickers = () => {
   return (
     <section className="text-gray-600 body-font">
       <div className="container px-5 py-24 mx-auto">
@@ -11,7 +11,7 @@ const Hoodies = () => {
               <img
                 alt="ecommerce"
                 className=" m-auto  md:h-[36vh] h-[30vh]"
-                src="https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/5/n/k/s-fm-2g-hood1-stp-prt-nvs-red-1p-kabuki-original-imagh5vtcpzhpque.jpeg?q=70"
+                src="https://rukminim1.flixcart.com/image/416/416/kbgu1e80/sticker/m/y/s/medium-adiyogi-745-66-adiyogi-745-god-god-s-original-imafst8fyatzk9wm.jpeg?q=70"
               />
 
               <div className="mt-4 text-center ">
@@ -31,7 +31,7 @@ const Hoodies = () => {
               <img
                 alt="ecommerce"
                 className=" m-auto  md:h-[36vh] h-[30vh]"
-                src="https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/5/n/k/s-fm-2g-hood1-stp-prt-nvs-red-1p-kabuki-original-imagh5vtcpzhpque.jpeg?q=70"
+                src="https://rukminim1.flixcart.com/image/416/416/kbgu1e80/sticker/m/y/s/medium-adiyogi-745-66-adiyogi-745-god-god-s-original-imafst8fyatzk9wm.jpeg?q=70"
               />
 
               <div className="mt-4 text-center ">
@@ -51,7 +51,7 @@ const Hoodies = () => {
               <img
                 alt="ecommerce"
                 className=" m-auto  md:h-[36vh] h-[30vh]"
-                src="https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/5/n/k/s-fm-2g-hood1-stp-prt-nvs-red-1p-kabuki-original-imagh5vtcpzhpque.jpeg?q=70"
+                src="https://rukminim1.flixcart.com/image/416/416/kbgu1e80/sticker/m/y/s/medium-adiyogi-745-66-adiyogi-745-god-god-s-original-imafst8fyatzk9wm.jpeg?q=70"
               />
 
               <div className="mt-4 text-center ">
@@ -71,7 +71,7 @@ const Hoodies = () => {
               <img
                 alt="ecommerce"
                 className=" m-auto  md:h-[36vh] h-[30vh]"
-                src="https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/5/n/k/s-fm-2g-hood1-stp-prt-nvs-red-1p-kabuki-original-imagh5vtcpzhpque.jpeg?q=70"
+                src="https://rukminim1.flixcart.com/image/416/416/kbgu1e80/sticker/m/y/s/medium-adiyogi-745-66-adiyogi-745-god-god-s-original-imafst8fyatzk9wm.jpeg?q=70"
               />
 
               <div className="mt-4 text-center ">
@@ -91,7 +91,7 @@ const Hoodies = () => {
               <img
                 alt="ecommerce"
                 className=" m-auto  md:h-[36vh] h-[30vh]"
-                src="https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/5/n/k/s-fm-2g-hood1-stp-prt-nvs-red-1p-kabuki-original-imagh5vtcpzhpque.jpeg?q=70"
+                src="https://rukminim1.flixcart.com/image/416/416/kbgu1e80/sticker/m/y/s/medium-adiyogi-745-66-adiyogi-745-god-god-s-original-imafst8fyatzk9wm.jpeg?q=70"
               />
 
               <div className="mt-4 text-center ">
@@ -111,7 +111,7 @@ const Hoodies = () => {
               <img
                 alt="ecommerce"
                 className=" m-auto  md:h-[36vh] h-[30vh]"
-                src="https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/5/n/k/s-fm-2g-hood1-stp-prt-nvs-red-1p-kabuki-original-imagh5vtcpzhpque.jpeg?q=70"
+                src="https://rukminim1.flixcart.com/image/416/416/kbgu1e80/sticker/m/y/s/medium-adiyogi-745-66-adiyogi-745-god-god-s-original-imafst8fyatzk9wm.jpeg?q=70"
               />
 
               <div className="mt-4 text-center ">
@@ -131,7 +131,7 @@ const Hoodies = () => {
               <img
                 alt="ecommerce"
                 className=" m-auto  md:h-[36vh] h-[30vh]"
-                src="https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/5/n/k/s-fm-2g-hood1-stp-prt-nvs-red-1p-kabuki-original-imagh5vtcpzhpque.jpeg?q=70"
+                src="https://rukminim1.flixcart.com/image/416/416/kbgu1e80/sticker/m/y/s/medium-adiyogi-745-66-adiyogi-745-god-god-s-original-imafst8fyatzk9wm.jpeg?q=70"
               />
 
               <div className="mt-4 text-center ">
@@ -151,7 +151,7 @@ const Hoodies = () => {
               <img
                 alt="ecommerce"
                 className=" m-auto  md:h-[36vh] h-[30vh]"
-                src="https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/5/n/k/s-fm-2g-hood1-stp-prt-nvs-red-1p-kabuki-original-imagh5vtcpzhpque.jpeg?q=70"
+                src="https://rukminim1.flixcart.com/image/416/416/kbgu1e80/sticker/m/y/s/medium-adiyogi-745-66-adiyogi-745-god-god-s-original-imafst8fyatzk9wm.jpeg?q=70"
               />
 
               <div className="mt-4 text-center ">
@@ -172,4 +172,4 @@ const Hoodies = () => {
   );
 };
 
-export default Hoodies;
+export default Stickers;
